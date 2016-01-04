@@ -5,7 +5,7 @@
 ##How to use:
 1. Get the latest release for your OS at: https://github.com/daemon32/tickrate_enabler/releases
 2. Extract the archive to your game folder (For example: cstrike)
-3. Add '-tickrate <number>' to your launch parameters
+3. Add `-tickrate <number>` to your launch parameters
 
 ##Linux Build Instructions:
 1. Clone https://github.com/alliedmodders/hl2sdk to the branch 'css' and point HL2SDK to the root of the git repo.
